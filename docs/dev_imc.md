@@ -31,7 +31,6 @@ outputs/
 						|--descriptors.h5
 						|--config.json
 			|--pragueparks/
-			|--googleurban/
 			
 ```
 
